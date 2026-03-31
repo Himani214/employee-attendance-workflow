@@ -69,3 +69,5 @@ Passionate about integrating business concepts with automation tools like **n8n*
 
 ## 📜 License
 This project is open-source. You are free to use, modify, and share with attribution.
+![Employee Attendance Tracker](images/dashboard.png)
+
