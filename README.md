@@ -42,7 +42,8 @@ It enables HR teams and organizations to monitor attendance, classify employees 
 ---
 
 ## 🗂 Workflow File
-- `My workflow 5 (1).json` → Import this file into **n8n** to run the workflow.
+- `My workflow 5 (1).json` → Import this file into **n8n** to run the workflow.<img width="1582" height="797" alt="image" src="https://github.com/user-attachments/assets/1f6ccdb3-7a7b-47bc-86c0-850886b62f55" />
+
 
 ---
 
