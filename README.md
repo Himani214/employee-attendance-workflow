@@ -54,7 +54,8 @@ Looking ahead, this project can evolve to deliver even greater value:
 ---
 
 ## 🗂 Workflow File
-- `My workflow 5 (1).json` → Import this file into **n8n** to run the workflow.<img width="1819" height="859" alt="Screenshot 2026-03-31 221650" src="https://github.com/user-attachments/assets/0b910384-af83-43e5-b3b7-79fd20f340d3" />
+- `My workflow 5 (1).json` → Import this file into **n8n** to run the workflow.<img width="1685" height="890" alt="image" src="https://github.com/user-attachments/assets/d63c2fd5-3bf6-43a0-bdab-821d8e7ffb5f" />
+
 
 
 
