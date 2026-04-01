@@ -69,7 +69,7 @@ Looking ahead, this project can evolve to deliver even greater value:
 ## 📸 Dashboard Preview
 Here’s a preview of the dashboard generated from the workflow:
 
-![Employee Attendance Tracker](dashboard.png)<img width="1337" height="731" alt="Screenshot 2026-04-01 142542" src="https://github.com/user-attachments/assets/6ad7bfac-0ccd-42a8-9225-53e7e97d91de" />
+![Employee Attendance Tracker](dashboard.png)
 
 
 ---
