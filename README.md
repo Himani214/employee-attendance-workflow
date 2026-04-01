@@ -56,7 +56,8 @@ It enables HR teams and organizations to monitor attendance, classify employees 
 ## 📸 Dashboard Preview
 Here’s a preview of the dashboard generated from the workflow:
 
-![Employee Attendance Tracker](attachments/ATud1Bbbc6zhHWoeLo3KY.png)
+![Employee Attendance Tracker](attachments/ATud1Bbbc6zhHWoeLo3KY.png)<img width="1337" height="731" alt="image" src="https://github.com/user-attachments/assets/6d7828b8-2342-4370-b9b1-cf5b1210a4a5" />
+
 
 ---
 
