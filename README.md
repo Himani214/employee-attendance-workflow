@@ -41,8 +41,20 @@ It enables HR teams and organizations to monitor attendance, classify employees 
 
 ---
 
+## 🔮 Long-Term Future Potential
+Looking ahead, this project can evolve to deliver even greater value:
+- 🧠 **AI-Powered Insights**: Integrate machine learning models to predict employee turnover, absenteeism, and productivity trends.
+- 📲 **Mobile Integration**: Allow employees and managers to access attendance dashboards via mobile apps.
+- 🔗 **ERP/HRMS Integration**: Connect with enterprise HR systems for payroll, leave management, and performance reviews.
+- 🛠 **Custom Alerts**: Automated notifications for HR when attendance drops below thresholds or when performance flags appear.
+- 🌐 **Cross-Department Analytics**: Extend beyond HR to help managers in operations, finance, and project planning.
+- 🏢 **Scalable Cloud Deployment**: Deploy across large organizations with thousands of employees, ensuring real-time monitoring.
+- 🔒 **Enhanced Security**: Future-proof with advanced authentication and compliance with data privacy regulations.
+
+---
+
 ## 🗂 Workflow File
-- `My workflow 5 (1).json` → Import this file into **n8n** to run the workflow.<img width="1582" height="797" alt="image" src="https://github.com/user-attachments/assets/1f6ccdb3-7a7b-47bc-86c0-850886b62f55" />
+- `My workflow 5 (1).json` → Import this file into **n8n** to run the workflow.<img width="1583" height="798" alt="Screenshot 2026-04-01 142656" src="https://github.com/user-attachments/assets/0b7547dd-63c1-4f5a-9c6b-ecfbccb55cc8" />
 
 
 ---
@@ -57,7 +69,7 @@ It enables HR teams and organizations to monitor attendance, classify employees 
 ## 📸 Dashboard Preview
 Here’s a preview of the dashboard generated from the workflow:
 
-![Employee Attendance Tracker](attachments/ATud1Bbbc6zhHWoeLo3KY.png)<img width="1337" height="731" alt="image" src="https://github.com/user-attachments/assets/6d7828b8-2342-4370-b9b1-cf5b1210a4a5" />
+![Employee Attendance Tracker](dashboard.png)<img width="1337" height="731" alt="Screenshot 2026-04-01 142542" src="https://github.com/user-attachments/assets/6ad7bfac-0ccd-42a8-9225-53e7e97d91de" />
 
 
 ---
@@ -71,5 +83,3 @@ Passionate about integrating business concepts with automation tools like **n8n*
 
 ## 📜 License
 This project is open-source. You are free to use, modify, and share with attribution.
-![Employee Attendance Tracker](images/dashboard.png)
-
